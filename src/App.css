@@ -7,6 +7,26 @@
   pointer-events: none;
 }
 
+.container {
+  display: flex;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.bg-rose {
+  background-color: #946451;
+}
+
+/*
+mustard: '#efc603',
+rose: '#946451',
+blush: '#a6856f',
+leaf: '#3a4925',
+shell: '#d9cfcf',
+*/
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
