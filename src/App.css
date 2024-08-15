@@ -19,6 +19,12 @@
   background-color: #946451;
 }
 
+footer {
+  background-color: #000000;
+  color: #fff;
+  padding: 1em;
+}
+
 /*
 mustard: '#efc603',
 rose: '#946451',
@@ -35,7 +41,7 @@ shell: '#d9cfcf',
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  /*min-height: 100vh;*/
   display: flex;
   flex-direction: column;
   align-items: center;
